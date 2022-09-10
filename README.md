@@ -1,2 +1,2 @@
 # MySQL
-Esquema MySQL Workbench test
+Esquema MySQL Workbench
