@@ -1,2 +1,2 @@
-create database if not exists dio_database;
-use dio_database;
+create schema if not exists company;
+use company;
